@@ -1,0 +1,19 @@
+{
+  "name": "math-js",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "keywords": ["math", "libary", "javascript"],
+  "author": {
+    "name": "Rene Pohland",
+    "email": "rene@webograph.de",
+    "url": "https://webograph.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WeboGraph/math-libary"
+  },
+  "homepage": "http://webograph.github.io/math-libary",
+  "license": "MIT"
+}
